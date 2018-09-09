@@ -1,1 +1,3 @@
-# WDI-Memory-Game-
+# WDI Memory Game
+
+A pre-course project. 
