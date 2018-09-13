@@ -1,4 +1,3 @@
-
 const cards = [
    {
        rank: "queen",
