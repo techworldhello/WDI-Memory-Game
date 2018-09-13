@@ -7,3 +7,5 @@ Features to add:
 - to increase the number of cards (possiblities)
 - a shuffle function each time the game replays
 - 3D animations when the cards are flipped 
+- a fixed number of tries and point system
+- to refactor using ES6 and higher order functions
