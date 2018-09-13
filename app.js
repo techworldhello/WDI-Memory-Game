@@ -31,7 +31,7 @@ function createBoard() {
 	cardElement.setAttribute('data-id', i);
 	cardElement.addEventListener('click', flipCard);
 	document.getElementById('game-board').appendChild(cardElement);
-  }
+  };
 };
 
 createBoard();
@@ -57,5 +57,5 @@ function flipCard() {
 
 function restartGame() {
 	location.reload();
-}
+};
 
