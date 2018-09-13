@@ -1,4 +1,3 @@
-
 const cards = [
    {
        rank: "queen",
@@ -10,7 +9,6 @@ const cards = [
       suit: "diamonds",
       cardImage: "images/queen-of-diamonds.png",
    },
-
    {
     rank: "king",
     suit: "hearts",
